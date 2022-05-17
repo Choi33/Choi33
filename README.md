@@ -12,6 +12,12 @@
   <br>
   
   ![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi33&show_icons=true&theme=cobalt)
+  
+  
+  <br>
+  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choiys0513)](https://solved.ac/choiys0513)
 </div>
 
 <!--
