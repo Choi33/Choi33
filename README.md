@@ -1,19 +1,14 @@
 <center>
-![hello Function](\img\hello.png)
+  
+![hello Function](/img/hello.png)
 
 </center>
 
 <br>
 <br>
 
-
-
-### Information
-
-
-
-
-
+### ⭐ Information⭐
+---
 
   ![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi33&show_icons=true&theme=cobalt)
 
