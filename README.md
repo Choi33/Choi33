@@ -26,9 +26,9 @@
 <br>
 
 ### 😺 Git status
-![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi33&show_icons=true&theme=cobalt) 
+![YeSeul-0w0's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeSeul-0w0&show_icons=true&theme=cobalt) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeSeul-0w0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
