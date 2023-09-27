@@ -26,8 +26,10 @@
 <br>
 
 ### 😺 Git status
+<!--
 ![YeSeul-0w0's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeSeul-0w0&show_icons=true&theme=cobalt) 
 <br>
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeSeul-0w0&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
